@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+   font-family: Arial, Helvetica, sans-serif;
+    flex-wrap: wrap;
+   color:palevioletred;
+   text-shadow: 2px 3px 1px;
+}
+p {
+    text-align: start;
+   text-decoration-line: unset;
+   color: forestgreen;
+   background-color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: x-large;
+   background-color: black;
+    font-style: oblique;
+    border-end-end-radius: 2200;
+    font-size: smaller;
+    margin-top: 100px;
+     margin-left: 40px;
+     margin-right: 100px;
+     text-shadow: -2px -4px 3px;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
